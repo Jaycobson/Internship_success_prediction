@@ -6,5 +6,13 @@ In this project, I simulated a data that uses some features and a target. It is 
 
 A brief video is shown in the link attached below
 
-@https://screenapp.io/app/#/shared/4ceaab08-11a6-491a-83ab-4748eae5cb4b
+https://screenapp.io/app/#/shared/4ceaab08-11a6-491a-83ab-4748eae5cb4b [explanation of notebook]
+
+https://screenapp.io/app/#/shared/d34feefe-a662-4b38-8338-4f0a202d99c1 [explanation of model deployment]
+
+Thank you for the opportunity to show case my machine learning skills.
+
+
+
+
 
