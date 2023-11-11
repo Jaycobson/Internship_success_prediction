@@ -12,6 +12,8 @@ https://screenapp.io/app/#/shared/d34feefe-a662-4b38-8338-4f0a202d99c1 [explanat
 
 Thank you for the opportunity to show case my machine learning skills.
 
+Jacob Ojumu
+
 
 
 
